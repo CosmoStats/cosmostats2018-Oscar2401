@@ -55,6 +55,7 @@ git pull https://github.com/CosmoStats/cosmostats2018 master)
 
 -- 40% Proyecto final 
 
+
 ## Bibliografía
 
     Se proporciona durante el curso, conforme se usa. 
